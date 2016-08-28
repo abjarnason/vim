@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/abjarnason/Projects/practical-vim/files/mvc'
+let g:netrw_dirhist_2='/home/abjarnason/Projects/practical-vim/files/mvc/app'
+let g:netrw_dirhist_3='/home/abjarnason/Projects/practical-vim/files/mvc/app/models'
+let g:netrw_dirhist_4='/home/abjarnason/Projects/practical-vim/files/mvc'
+let g:netrw_dirhist_5='/home/abjarnason/Projects/flascii-hangman/static'
+let g:netrw_dirhist_6='/home/abjarnason/Projects/ansible-roles/vnc'
+let g:netrw_dirhist_7='/home/abjarnason/Projects/ansible-roles'
+let g:netrw_dirhist_8='/home/abjarnason/Projects/ansible-roles/vnc/tasks'
